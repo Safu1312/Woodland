@@ -1,0 +1,380 @@
+    <!-- Company Timeline -->
+    <section class="py-20 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <h2 class="font-inter font-bold text-3xl sm:text-4xl text-secondary mb-4">
+                    Our Journey of Growth
+                </h2>
+                <p class="text-lg text-text-secondary max-w-2xl mx-auto">
+                    Two decades of milestones, achievements, and unwavering commitment to exceptional care.
+                </p>
+            </div>
+
+            <div class="relative">
+                <!-- Timeline Line -->
+                <div class="absolute left-1/2 transform -translate-x-1/2 w-1 h-full bg-primary-200 hidden md:block"></div>
+
+                <!-- Timeline Items -->
+                <div class="space-y-12">
+                    <!-- 2003 - Foundation -->
+                    <div class="relative flex items-center justify-between md:justify-center">
+                        <div class="md:w-1/2 md:pr-8 md:text-right">
+                            <div class="card hover:shadow-elevated transition-all duration-300">
+                                <div class="text-primary font-bold text-lg mb-2">2003</div>
+                                <h3 class="font-inter font-semibold text-xl text-secondary mb-3">Foundation & Vision</h3>
+                                <p class="text-text-secondary">Capital Care Homes Ltd established with our first facility, setting new standards for compassionate healthcare in the UK.</p>
+                            </div>
+                        </div>
+                        <div class="absolute left-1/2 transform -translate-x-1/2 w-4 h-4 bg-primary rounded-full border-4 border-white shadow-gentle hidden md:block"></div>
+                        <div class="md:w-1/2 md:pl-8 hidden md:block"></div>
+                    </div>
+
+                    <!-- 2008 - Expansion -->
+                    <div class="relative flex items-center justify-between md:justify-center">
+                        <div class="md:w-1/2 md:pr-8 hidden md:block"></div>
+                        <div class="absolute left-1/2 transform -translate-x-1/2 w-4 h-4 bg-secondary rounded-full border-4 border-white shadow-gentle hidden md:block"></div>
+                        <div class="md:w-1/2 md:pl-8">
+                            <div class="card hover:shadow-elevated transition-all duration-300">
+                                <div class="text-secondary font-bold text-lg mb-2">2008</div>
+                                <h3 class="font-inter font-semibold text-xl text-secondary mb-3">First Expansion</h3>
+                                <p class="text-text-secondary">Opened our second facility, Woodlands CourtCare Home, expanding our reach and impact in the community.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- 2015 - Nursing Care -->
+                    <div class="relative flex items-center justify-between md:justify-center">
+                        <div class="md:w-1/2 md:pr-8 md:text-right">
+                            <div class="card hover:shadow-elevated transition-all duration-300">
+                                <div class="text-accent font-bold text-lg mb-2">2015</div>
+                                <h3 class="font-inter font-semibold text-xl text-secondary mb-3">Specialized Nursing Care</h3>
+                                <p class="text-text-secondary">Launched Ty-Hafod Nursing Home, bringing advanced medical care with our signature warmth and compassion.</p>
+                            </div>
+                        </div>
+                        <div class="absolute left-1/2 transform -translate-x-1/2 w-4 h-4 bg-accent rounded-full border-4 border-white shadow-gentle hidden md:block"></div>
+                        <div class="md:w-1/2 md:pl-8 hidden md:block"></div>
+                    </div>
+
+                    <!-- 2020 - Full Network -->
+                    <div class="relative flex items-center justify-between md:justify-center">
+                        <div class="md:w-1/2 md:pr-8 hidden md:block"></div>
+                        <div class="absolute left-1/2 transform -translate-x-1/2 w-4 h-4 bg-primary rounded-full border-4 border-white shadow-gentle hidden md:block"></div>
+                        <div class="md:w-1/2 md:pl-8">
+                            <div class="card hover:shadow-elevated transition-all duration-300">
+                                <div class="text-primary font-bold text-lg mb-2">2020</div>
+                                <h3 class="font-inter font-semibold text-xl text-secondary mb-3">Complete Network</h3>
+                                <p class="text-text-secondary">Completed our four-facility network with Woodlands Court and Swn-Y-Gan, serving diverse care needs across the region.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- 2025 - Present -->
+                    <div class="relative flex items-center justify-between md:justify-center">
+                        <div class="md:w-1/2 md:pr-8 md:text-right">
+                            <div class="card hover:shadow-elevated transition-all duration-300 border-2 border-primary">
+                                <div class="text-primary font-bold text-lg mb-2">2025</div>
+                                <h3 class="font-inter font-semibold text-xl text-secondary mb-3">Continuing Excellence</h3>
+                                <p class="text-text-secondary">Today, we continue to set the standard for compassionate care, with 100+ dedicated staff serving families across our network.</p>
+                            </div>
+                        </div>
+                        <div class="absolute left-1/2 transform -translate-x-1/2 w-6 h-6 bg-primary rounded-full border-4 border-white shadow-gentle hidden md:block animate-pulse"></div>
+                        <div class="md:w-1/2 md:pl-8 hidden md:block"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+        <!-- Team Highlights Section -->
+    <section class="py-20 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <h2 class="font-inter font-bold text-3xl sm:text-4xl text-secondary mb-4">
+                    Meet Our Leadership Team
+                </h2>
+                <p class="text-lg text-text-secondary max-w-2xl mx-auto">
+                    Experienced professionals who lead with passion, expertise, and an unwavering commitment to exceptional care.
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- Team Member 1 -->
+                <div class="card hover:shadow-elevated transition-all duration-300 text-center group">
+                    <div class="relative mb-6">
+                        <img src="https://images.pixabay.com/photo/2017/03/01/22/18/avatar-2109804_960_720.png" alt="Sarah Mitchell - Director of Care Services" class="w-24 h-24 rounded-full mx-auto object-cover border-4 border-primary-100 group-hover:border-primary-300 transition-colors" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1584824486509-112e4181ff6b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'; this.onerror=null;" />
+                        <div class="absolute -bottom-2 -right-2 w-8 h-8 bg-primary rounded-full flex items-center justify-center">
+                            <svg class="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z"/>
+                            </svg>
+                        </div>
+                    </div>
+                    <h3 class="font-inter font-semibold text-xl text-secondary mb-2">Sarah Mitchell</h3>
+                    <p class="text-primary font-semibold mb-3">Director of Care Services</p>
+                    <p class="text-text-secondary text-sm leading-relaxed">RN, BSc Healthcare Management. 15 years of experience in senior care, passionate about creating person-centered care plans that honor individual dignity.</p>
+                </div>
+
+                <!-- Team Member 2 -->
+                <div class="card hover:shadow-elevated transition-all duration-300 text-center group">
+                    <div class="relative mb-6">
+                        <img src="https://images.pexels.com/photos/5327580/pexels-photo-5327580.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&fit=crop" alt="Dr. James Thompson - Medical Director" class="w-24 h-24 rounded-full mx-auto object-cover border-4 border-secondary-100 group-hover:border-secondary-300 transition-colors" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1584824486509-112e4181ff6b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'; this.onerror=null;" />
+                        <div class="absolute -bottom-2 -right-2 w-8 h-8 bg-secondary rounded-full flex items-center justify-center">
+                            <svg class="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 7.172V5L8 4z"/>
+                            </svg>
+                        </div>
+                    </div>
+                    <h3 class="font-inter font-semibold text-xl text-secondary mb-2">Dr. James Thompson</h3>
+                    <p class="text-secondary font-semibold mb-3">Medical Director</p>
+                    <p class="text-text-secondary text-sm leading-relaxed">MD, Geriatric Medicine Specialist. 20 years in elderly care, dedicated to advancing medical standards while maintaining compassionate patient relationships.</p>
+                </div>
+
+                <!-- Team Member 3 -->
+                <div class="card hover:shadow-elevated transition-all duration-300 text-center group">
+                    <div class="relative mb-6">
+                        <img src="https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=compress&cs=tinysrgb&w=300&h=300&fit=crop" alt="Emma Williams - Family Liaison Manager" class="w-24 h-24 rounded-full mx-auto object-cover border-4 border-accent-100 group-hover:border-accent-300 transition-colors" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1584824486509-112e4181ff6b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'; this.onerror=null;" />
+                        <div class="absolute -bottom-2 -right-2 w-8 h-8 bg-accent rounded-full flex items-center justify-center">
+                            <svg class="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"/>
+                            </svg>
+                        </div>
+                    </div>
+                    <h3 class="font-inter font-semibold text-xl text-secondary mb-2">Emma Williams</h3>
+                    <p class="text-accent font-semibold mb-3">Family Liaison Manager</p>
+                    <p class="text-text-secondary text-sm leading-relaxed">BA Social Work, MSc Family Therapy. Specializes in supporting families through care transitions with empathy, understanding, and clear communication.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+        <!-- Comparison Section -->
+    <section class="py-16 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-12">
+                <h2 class="font-inter font-bold text-3xl sm:text-4xl text-secondary mb-4">
+                    Compare Our Facilities
+                </h2>
+                <p class="text-lg text-text-secondary max-w-3xl mx-auto">
+                    Find the perfect care environment by comparing key features and specializations across all our facilities.
+                </p>
+            </div>
+
+            <div class="overflow-x-auto">
+                <table class="w-full bg-white rounded-lg shadow-gentle">
+                    <thead class="bg-secondary-50">
+                        <tr>
+                            <th class="px-6 py-4 text-left font-inter font-semibold text-secondary">Feature</th>
+                            <th class="px-6 py-4 text-center font-inter font-semibold text-secondary">Woodlands Court</th>
+                            <th class="px-6 py-4 text-center font-inter font-semibold text-secondary">Woodlands Court</th>
+                            <th class="px-6 py-4 text-center font-inter font-semibold text-secondary">Ty-Hafod</th>
+                            <th class="px-6 py-4 text-center font-inter font-semibold text-secondary">Swn-Y-Gan</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-surface">
+                        <tr>
+                            <td class="px-6 py-4 font-medium text-text-primary">Care Type</td>
+                            <td class="px-6 py-4 text-center text-text-secondary">Residential</td>
+                            <td class="px-6 py-4 text-center text-text-secondary">Residential</td>
+                            <td class="px-6 py-4 text-center text-text-secondary">Nursing</td>
+                            <td class="px-6 py-4 text-center text-text-secondary">Nursing</td>
+                        </tr>
+                        <tr class="bg-surface/30">
+                            <td class="px-6 py-4 font-medium text-text-primary">Capacity</td>
+                            <td class="px-6 py-4 text-center text-text-secondary">42 residents</td>
+                            <td class="px-6 py-4 text-center text-text-secondary">38 residents</td>
+                            <td class="px-6 py-4 text-center text-text-secondary">35 residents</td>
+                            <td class="px-6 py-4 text-center text-text-secondary">40 residents</td>
+                        </tr>
+                        <tr>
+                            <td class="px-6 py-4 font-medium text-text-primary">24/7 Nursing</td>
+                            <td class="px-6 py-4 text-center">
+                                <svg class="w-5 h-5 text-warning mx-auto" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+                                </svg>
+                            </td>
+                            <td class="px-6 py-4 text-center">
+                                <svg class="w-5 h-5 text-warning mx-auto" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+                                </svg>
+                            </td>
+                            <td class="px-6 py-4 text-center">
+                                <svg class="w-5 h-5 text-success mx-auto" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+                                </svg>
+                            </td>
+                            <td class="px-6 py-4 text-center">
+                                <svg class="w-5 h-5 text-success mx-auto" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+                                </svg>
+                            </td>
+                        </tr>
+                        <tr class="bg-surface/30">
+                            <td class="px-6 py-4 font-medium text-text-primary">Dementia Care</td>
+                            <td class="px-6 py-4 text-center">
+                                <svg class="w-5 h-5 text-warning mx-auto" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+                                </svg>
+                            </td>
+                            <td class="px-6 py-4 text-center">
+                                <svg class="w-5 h-5 text-warning mx-auto" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+                                </svg>
+                            </td>
+                            <td class="px-6 py-4 text-center">
+                                <svg class="w-5 h-5 text-success mx-auto" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+                                </svg>
+                            </td>
+                            <td class="px-6 py-4 text-center">
+                                <svg class="w-5 h-5 text-success mx-auto" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+                                </svg>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="px-6 py-4 font-medium text-text-primary">Rehabilitation</td>
+                            <td class="px-6 py-4 text-center">
+                                <svg class="w-5 h-5 text-text-secondary mx-auto" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"/>
+                                </svg>
+                            </td>
+                            <td class="px-6 py-4 text-center">
+                                <svg class="w-5 h-5 text-warning mx-auto" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+                                </svg>
+                            </td>
+                            <td class="px-6 py-4 text-center">
+                                <svg class="w-5 h-5 text-success mx-auto" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+                                </svg>
+                            </td>
+                            <td class="px-6 py-4 text-center">
+                                <svg class="w-5 h-5 text-success mx-auto" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+                                </svg>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="text-center mt-8">
+                <p class="text-sm text-text-secondary mb-4">
+                    <svg class="w-4 h-4 inline text-success mr-1" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+                    </svg>
+                    Full Service Available
+                    <svg class="w-4 h-4 inline text-warning mx-4" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+                    </svg>
+                    Limited Service
+                    <svg class="w-4 h-4 inline text-text-secondary ml-4" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"/>
+                    </svg>
+                    Not Available
+                </p>
+                <a href="contact_engagement_footer.html" class="btn-primary">
+                    Discuss Your Needs
+                </a>
+            </div>
+        </div>
+    </section>
+
+        <!-- Quick Contact Cards -->
+    <section class="py-16 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-16">
+                <!-- Emergency Contact -->
+                <div class="card text-center hover:shadow-elevated transition-all duration-300 group">
+                    <div class="w-16 h-16 bg-error/10 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:bg-error/20 transition-colors">
+                        <svg class="w-8 h-8 text-error" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-2.5L13.732 4c-.77-.833-1.964-.833-2.732 0L4.082 16.5c-.77.833.192 2.5 1.732 2.5z"/>
+                        </svg>
+                    </div>
+                    <h3 class="font-inter font-semibold text-xl mb-2 text-secondary">24/7 Emergency</h3>
+                    <p class="text-text-secondary mb-4">Immediate assistance available</p>
+                    <a href="tel:+441234567890" class="text-error font-semibold hover:text-error-700 transition-colors">Emergency: 01234 567 890</a>
+                </div>
+
+                <!-- General Inquiries -->
+                <div class="card text-center hover:shadow-elevated transition-all duration-300 group">
+                    <div class="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:bg-primary/20 transition-colors">
+                        <svg class="w-8 h-8 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 4.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/>
+                        </svg>
+                    </div>
+                    <h3 class="font-inter font-semibold text-xl mb-2 text-secondary">General Inquiries</h3>
+                    <p class="text-text-secondary mb-4">Questions about our services</p>
+                    <a href="mailto:info@capitalcarehomes.co.uk" class="text-primary font-semibold hover:text-primary-600 transition-colors">info@capitalcarehomes.co.uk</a>
+                </div>
+
+                <!-- Admissions -->
+                <div class="card text-center hover:shadow-elevated transition-all duration-300 group">
+                    <div class="w-16 h-16 bg-secondary/10 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:bg-secondary/20 transition-colors">
+                        <svg class="w-8 h-8 text-secondary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                        </svg>
+                    </div>
+                    <h3 class="font-inter font-semibold text-xl mb-2 text-secondary">Admissions</h3>
+                    <p class="text-text-secondary mb-4">Care assessments & placements</p>
+                    <a href="mailto:admissions@capitalcarehomes.co.uk" class="text-secondary font-semibold hover:text-secondary-700 transition-colors">admissions@capitalcarehomes.co.uk</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+        <!-- Newsletter & Resources Section -->
+    <section class="py-16 bg-gradient-to-r from-primary/5 to-secondary/5">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+                <!-- Newsletter Signup -->
+                <div>
+                    <h3 class="font-inter font-bold text-2xl sm:text-3xl text-secondary mb-4">Stay Connected</h3>
+                    <p class="text-lg text-text-secondary mb-6">
+                        Subscribe to our newsletter for care tips, facility updates, and important healthcare information.
+                    </p>
+                    <form id="newsletter-form" class="flex flex-col sm:flex-row gap-4">
+                        <input type="email" id="newsletter-email" name="newsletter-email" placeholder="Enter your email address" required class="flex-1 form-input" />
+                        <button type="submit" class="btn-primary px-6 py-3 whitespace-nowrap">
+                            Subscribe
+                        </button>
+                    </form>
+                    <p class="text-xs text-text-secondary mt-3">
+                        We respect your privacy. Unsubscribe at any time.
+                    </p>
+                </div>
+
+                <!-- Downloadable Resources -->
+                <div>
+                    <h3 class="font-inter font-bold text-2xl sm:text-3xl text-secondary mb-4">Helpful Resources</h3>
+                    <p class="text-lg text-text-secondary mb-6">
+                        Download our guides to help you make informed decisions about care options.
+                    </p>
+                    <div class="space-y-3">
+                        <a href="javascript:void(0)" class="flex items-center p-4 bg-white rounded-lg shadow-gentle hover:shadow-card transition-all duration-300 group">
+                            <div class="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center mr-4 group-hover:bg-primary/20 transition-colors">
+                                <svg class="w-5 h-5 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                </svg>
+                            </div>
+                            <div>
+                                <h4 class="font-semibold text-secondary">Care Home Selection Guide</h4>
+                                <p class="text-sm text-text-secondary">PDF • 2.3 MB</p>
+                            </div>
+                        </a>
+                        <a href="javascript:void(0)" class="flex items-center p-4 bg-white rounded-lg shadow-gentle hover:shadow-card transition-all duration-300 group">
+                            <div class="w-10 h-10 bg-secondary/10 rounded-lg flex items-center justify-center mr-4 group-hover:bg-secondary/20 transition-colors">
+                                <svg class="w-5 h-5 text-secondary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                </svg>
+                            </div>
+                            <div>
+                                <h4 class="font-semibold text-secondary">Understanding Care Costs</h4>
+                                <p class="text-sm text-text-secondary">PDF • 1.8 MB</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
