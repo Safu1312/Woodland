@@ -22,7 +22,7 @@
                             <div class="card hover:shadow-elevated transition-all duration-300">
                                 <div class="text-primary font-bold text-lg mb-2">2003</div>
                                 <h3 class="font-inter font-semibold text-xl text-secondary mb-3">Foundation & Vision</h3>
-                                <p class="text-text-secondary">Capital Care Homes Ltd established with our first facility, setting new standards for compassionate healthcare in the UK.</p>
+                                <p class="text-text-secondary">Woodlands Court Ltd established with our first facility, setting new standards for compassionate healthcare in the UK.</p>
                             </div>
                         </div>
                         <div class="absolute left-1/2 transform -translate-x-1/2 w-4 h-4 bg-primary rounded-full border-4 border-white shadow-gentle hidden md:block"></div>
